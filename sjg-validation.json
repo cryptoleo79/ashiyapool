@@ -3,6 +3,6 @@
 "ticker":"C1979",
 "discordId":"1135451056638271588",
 "pool-list":"true",
-"poolMetaData":"https://ashiyapool.com/ashiyapool.json",
+"poolMetaData":"https://ashiyapool.com/poolMetaData.json",
 "validation":"https://ashiyapool.com/sjg-validation.json"
 }
