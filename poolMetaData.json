@@ -1,8 +1,8 @@
 {
-    "name": "AshiyaPool",
-    "description": "芦屋から世界へ-障害の有無に関わらずこどもたちの芸術文化の育成、難病と向き合うこどもたちの心の支援をしています。We support all kids—regardless of disability—in performing arts, bringing smiles to children facing rare diseases.",
-    "ticker": "ASY",
-    "homepage": "https://www.ashiyapool.com",
-    "extended": "https://cryptoleo79.github.io/ashiyapool/extended-metadata.json",
-    "nonce":"1748845535"
+  "name": "AshiyaPool",
+  "description": "ASYは音楽とアート、人々をCNFTでつなぎ、Cardanoコミュニティに文化と笑顔を広げ、子どもたちの芸術と笑顔を支えます。ASY connects music, art, and people through CNFT - supporting the Cardano community with creativity.",
+  "ticker": "ASY",
+  "homepage": "https://www.ashiyapool.com",
+  "extended": "https://raw.githubusercontent.com/cryptoleo79/ashiyapool/refs/heads/main/extended-metadata.json",
+  "nonce": "2025100101"
 }
