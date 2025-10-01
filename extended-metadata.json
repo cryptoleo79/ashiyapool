@@ -1,36 +1,37 @@
-
 {
-    "verification":"f6545e00b42796eea2",
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
-    "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
-        "location": "Ashiya, Japan",
-        "social": {
-            "twitter_handle": "AshiyaPool",
-            "telegram_handle": "",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "maron_31554",
-            "github_handle": "",
-            "patreon_handle": "",
-            "linkedin_handle": "",
-            "ada_handle": ""
-        },
-        "company": {
-            "name": "",
-            "addr": "",
-            "city": "Ashiya",
-            "country": "Japan",
-            "company_id": "",
-            "vat_id": ""
-        },
-        "about": {
-            "me": "...",
-            "server": "",
-            "company": ""
-        
-        }
+  "verification": "f6545e00b42796eea2",
+  "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+  "info": {
+    "url_png_icon_64x64": "https://iil.jp/asy/logo-64px.png",
+    "url_png_logo": "https://iil.jp/asy/logo-160px.png",
+    "location": "Japan, Ashiya-shi",
+    "social": {
+      "twitter_handle": "AshiyaPool",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "_a_s_y_",
+      "github_handle": "",
+      "patreon_handle": "",
+      "linkedin_handle": "",
+      "ada_handle": "$asy"
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "Ashiya",
+      "country": "Japan",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "ASYは音楽とアート、人々をCNFTでつなぎ、Cardanoコミュニティに文化と笑顔を広げ、子どもたちの芸術と笑顔を支えます。ASY connects music, art, and people through CNFT - supporting the Cardano community with creativity.",
+      "server": "16 core 32GB RAM HomeServer, 12 vCPU 32GB RAM Servers",
+      "company": ""
+    },
+    "my-pool-ids": {
+      "0": "a79aedbfe592557a1779f521f4b9c7693f89f36d449970c0974efe32"
     }
+  }
 }
