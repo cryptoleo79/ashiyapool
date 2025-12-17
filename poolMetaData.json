@@ -1,8 +1,8 @@
 {
   "name": "AshiyaPool",
-  "description": "ASYは音楽とアート、人々をCNFTでつなぎ、Cardanoコミュニティに文化と笑顔を広げ、子どもたちの芸術と笑顔を支えます。ASY connects music, art, and people through CNFT - supporting the Cardano community with creativity.",
+  "description": "音楽とアートで人をつなぐステークプール。Midnight Validatorとしても稼働中。Music & Art focused SPO and active Midnight Validator. Stake with ASY.",
   "ticker": "ASY",
   "homepage": "https://www.ashiyapool.com",
   "extended": "https://raw.githubusercontent.com/cryptoleo79/ashiyapool/refs/heads/main/extended-metadata.json",
-  "nonce": "2025100101"
+  "nonce": "2025121701"
 }
